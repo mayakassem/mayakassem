@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently working as a Backend developer<br>🎲 Fun fact: PHP is nor dead yet</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently working as a Backend developer<br>🎲 Fun fact: PHP is not dead yet</p>
 
 ###
 
